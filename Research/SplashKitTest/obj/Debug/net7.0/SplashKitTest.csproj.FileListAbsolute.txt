@@ -1,0 +1,14 @@
+C:\Users\ntuan\Desktop\SplashKitTest\bin\Debug\net7.0\SplashKitTest.exe
+C:\Users\ntuan\Desktop\SplashKitTest\bin\Debug\net7.0\SplashKitTest.deps.json
+C:\Users\ntuan\Desktop\SplashKitTest\bin\Debug\net7.0\SplashKitTest.runtimeconfig.json
+C:\Users\ntuan\Desktop\SplashKitTest\bin\Debug\net7.0\SplashKitTest.dll
+C:\Users\ntuan\Desktop\SplashKitTest\bin\Debug\net7.0\SplashKitTest.pdb
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.AssemblyInfoInputs.cache
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.AssemblyInfo.cs
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.csproj.CoreCompileInputs.cache
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.dll
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\refint\SplashKitTest.dll
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.pdb
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\SplashKitTest.genruntimeconfig.cache
+C:\Users\ntuan\Desktop\SplashKitTest\obj\Debug\net7.0\ref\SplashKitTest.dll

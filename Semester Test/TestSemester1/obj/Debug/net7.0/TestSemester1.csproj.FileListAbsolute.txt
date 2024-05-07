@@ -1,0 +1,29 @@
+C:\Users\ntuan\Desktop\TestSemester1\bin\Debug\net7.0\TestSemester1.exe
+C:\Users\ntuan\Desktop\TestSemester1\bin\Debug\net7.0\TestSemester1.deps.json
+C:\Users\ntuan\Desktop\TestSemester1\bin\Debug\net7.0\TestSemester1.runtimeconfig.json
+C:\Users\ntuan\Desktop\TestSemester1\bin\Debug\net7.0\TestSemester1.dll
+C:\Users\ntuan\Desktop\TestSemester1\bin\Debug\net7.0\TestSemester1.pdb
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.AssemblyInfoInputs.cache
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.AssemblyInfo.cs
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.csproj.CoreCompileInputs.cache
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.dll
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\refint\TestSemester1.dll
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.pdb
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\TestSemester1.genruntimeconfig.cache
+C:\Users\ntuan\Desktop\TestSemester1\obj\Debug\net7.0\ref\TestSemester1.dll
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\bin\Debug\net7.0\TestSemester1.exe
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\bin\Debug\net7.0\TestSemester1.deps.json
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\bin\Debug\net7.0\TestSemester1.runtimeconfig.json
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\bin\Debug\net7.0\TestSemester1.dll
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\bin\Debug\net7.0\TestSemester1.pdb
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.AssemblyInfoInputs.cache
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.AssemblyInfo.cs
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.csproj.CoreCompileInputs.cache
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.sourcelink.json
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.dll
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\refint\TestSemester1.dll
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.pdb
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\TestSemester1.genruntimeconfig.cache
+C:\Users\ntuan\OneDrive - MSFT\Swinburne Course\COS20007\COS20007\Semester Test\TestSemester1\obj\Debug\net7.0\ref\TestSemester1.dll

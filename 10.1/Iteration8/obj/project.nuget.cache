@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lgg7yj4gBwWKaihQYn0ECli2rEmggy4lZM2laVyw0wofkpvVS6VyRK+kaqrHK3Ac4VqjI4gFfOgUITH621DuHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ntuan\\OneDrive - MSFT\\Swinburne Course\\COS20007\\COS20007\\10.1\\Iteration8\\Iteration8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

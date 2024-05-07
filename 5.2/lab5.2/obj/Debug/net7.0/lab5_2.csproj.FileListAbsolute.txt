@@ -1,0 +1,14 @@
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.AssemblyInfoInputs.cache
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.AssemblyInfo.cs
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.csproj.CoreCompileInputs.cache
+C:\Users\ntuan\Desktop\lab5.2\bin\Debug\net7.0\lab5_2.exe
+C:\Users\ntuan\Desktop\lab5.2\bin\Debug\net7.0\lab5_2.deps.json
+C:\Users\ntuan\Desktop\lab5.2\bin\Debug\net7.0\lab5_2.runtimeconfig.json
+C:\Users\ntuan\Desktop\lab5.2\bin\Debug\net7.0\lab5_2.dll
+C:\Users\ntuan\Desktop\lab5.2\bin\Debug\net7.0\lab5_2.pdb
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.dll
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\refint\lab5_2.dll
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.pdb
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\lab5_2.genruntimeconfig.cache
+C:\Users\ntuan\Desktop\lab5.2\obj\Debug\net7.0\ref\lab5_2.dll

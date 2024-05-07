@@ -1,0 +1,14 @@
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.AssemblyInfoInputs.cache
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.AssemblyInfo.cs
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.csproj.CoreCompileInputs.cache
+C:\Users\ntuan\Desktop\Iteration5\bin\Debug\net7.0\Iteration5.exe
+C:\Users\ntuan\Desktop\Iteration5\bin\Debug\net7.0\Iteration5.deps.json
+C:\Users\ntuan\Desktop\Iteration5\bin\Debug\net7.0\Iteration5.runtimeconfig.json
+C:\Users\ntuan\Desktop\Iteration5\bin\Debug\net7.0\Iteration5.dll
+C:\Users\ntuan\Desktop\Iteration5\bin\Debug\net7.0\Iteration5.pdb
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.dll
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\refint\Iteration5.dll
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.pdb
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\Iteration5.genruntimeconfig.cache
+C:\Users\ntuan\Desktop\Iteration5\obj\Debug\net7.0\ref\Iteration5.dll

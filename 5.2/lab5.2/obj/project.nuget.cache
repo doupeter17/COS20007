@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xk2XgCABnPML/eLAMQjhY0EvLmV2iEzLm8Vg5Bk4BX5HVGg7QxFQlCzAMc8EmmKutcC//WqV7IjcCt5VU9uvjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ntuan\\Desktop\\5.2\\lab5.2\\lab5_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ntuan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
